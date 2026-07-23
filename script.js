@@ -6,13 +6,13 @@ const players = [
   { name: "Tommy Setford", pos: "Goalkeeper", age: 20, num: 35, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "setford.jpg" },
 
   // Defenders
-  { name: "William Saliba", pos: "Defender", age: 25, num: 2, country: "🇫🇷 France", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/William_Saliba_2022.jpg/800px-William_Saliba_2022.jpg" },
-  { name: "Ben White", pos: "Defender", age: 28, num: 4, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ben_White_2021.jpg/800px-Ben_White_2021.jpg" },
-  { name: "Gabriel Magalhães", pos: "Defender", age: 28, num: 6, country: "🇧🇷 Brazil", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gabriel_Magalh%C3%A3es_2022.jpg/800px-Gabriel_Magalh%C3%A3es_2022.jpg" },
-  { name: "Jurriën Timber", pos: "Defender", age: 25, num: 12, country: "🇳🇱 Netherlands", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Jurrien_Timber_2022.jpg/800px-Jurrien_Timber_2022.jpg" },
-  { name: "Riccardo Calafiori", pos: "Defender", age: 24, num: 33, country: "🇮🇹 Italy", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Riccardo_Calafiori_2024.jpg/800px-Riccardo_Calafiori_2024.jpg" },
-  { name: "Myles Lewis-Skelly", pos: "Defender", age: 19, num: 49, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "" },
-  { name: "Marli Salmon", pos: "Defender", age: 16, num: 89, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "" },
+  { name: "William Saliba", pos: "Defender", age: 25, num: 2, country: "🇫🇷 France", image: "saliba.jpg" },
+  { name: "Ben White", pos: "Defender", age: 28, num: 4, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "white.jpg" },
+  { name: "Gabriel Magalhães", pos: "Defender", age: 28, num: 6, country: "🇧🇷 Brazil", image: "gabriel.m.jpg" },
+  { name: "Jurriën Timber", pos: "Defender", age: 25, num: 12, country: "🇳🇱 Netherlands", image: "timber.jpg" },
+  { name: "Riccardo Calafiori", pos: "Defender", age: 24, num: 33, country: "🇮🇹 Italy", image: "calafiori.jpg" },
+  { name: "Myles Lewis-Skelly", pos: "Defender", age: 19, num: 49, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "lewis skelly.jpg" },
+  { name: "Marli Salmon", pos: "Defender", age: 16, num: 89, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "salmon.jpg" },
 
   // Midfielders
   { name: "Martin Ødegaard", pos: "Midfielder", age: 27, num: 8, country: "🇳🇴 Norway", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Martin_%C3%98degaard_2022.jpg/800px-Martin_%C3%98degaard_2022.jpg" },
