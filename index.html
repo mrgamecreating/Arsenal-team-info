@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arsenal FC Squad</title>
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Oswald:wght@600;700&display=swap" rel="stylesheet">
+  
+  <!-- Link to your CSS file -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Arsenal FC</h1>
+    <p class="subtitle">First Team Squad</p>
+  </header>
+
+  <!-- Filter & Search Controls -->
+  <div class="controls-container">
+    <input type="text" id="search-input" placeholder="Search player by name..." />
+    <div class="filter-buttons">
+      <button class="filter-btn active" data-pos="All">All</button>
+      <button class="filter-btn" data-pos="Goalkeeper">Goalkeepers</button>
+      <button class="filter-btn" data-pos="Defender">Defenders</button>
+      <button class="filter-btn" data-pos="Midfielder">Midfielders</button>
+      <button class="filter-btn" data-pos="Forward">Forwards</button>
+    </div>
+  </div>
+
+  <div class="grid" id="squad-grid"></div>
+
+  <!-- Link to your JS file -->
+  <script src="script.js"></script>
+</body>
+</html>
