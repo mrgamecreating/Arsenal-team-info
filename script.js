@@ -8,11 +8,11 @@ const players = [
   // Defenders
   { name: "William Saliba", pos: "Defender", age: 25, num: 2, country: "🇫🇷 France", image: "https://assets.arsenal.com/prod/images/medium_square/acb476e282e8-2-william-saliba.png" },
   { name: "Ben White", pos: "Defender", age: 28, num: 4, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://assets.arsenal.com/prod/images/medium_square/c83cc5eae5b9-4-ben-white.png" },
-  { name: "Gabriel Magalhães", pos: "Defender", age: 28, num: 6, country: "🇧🇷 Brazil", image: "gabriel.m.jpg" },
-  { name: "Jurriën Timber", pos: "Defender", age: 25, num: 12, country: "🇳🇱 Netherlands", image: "timber.jpg" },
-  { name: "Riccardo Calafiori", pos: "Defender", age: 24, num: 33, country: "🇮🇹 Italy", image: "calafiori.jpg" },
-  { name: "Myles Lewis-Skelly", pos: "Defender", age: 19, num: 49, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "lewis skelly.jpg" },
-  { name: "Marli Salmon", pos: "Defender", age: 16, num: 89, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "salmon.jpg" },
+  { name: "Gabriel Magalhães", pos: "Defender", age: 28, num: 6, country: "🇧🇷 Brazil", image: "https://assets.arsenal.com/prod/images/medium_square/bce152cb2522-6-gabriel-magalhaes.png" },
+  { name: "Jurriën Timber", pos: "Defender", age: 25, num: 12, country: "🇳🇱 Netherlands", image: "https://assets.arsenal.com/prod/images/medium_square/3016059da8aa-12-jurrien-timber.png" },
+  { name: "Riccardo Calafiori", pos: "Defender", age: 24, num: 33, country: "🇮🇹 Italy", image: "https://assets.arsenal.com/prod/images/medium_square/7e33fd9a4107-33-riccardo-calafiori.png" },
+  { name: "Myles Lewis-Skelly", pos: "Defender", age: 19, num: 49, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://assets.arsenal.com/prod/images/medium_square/1e9b0547f835-49-myles-lewis-skelly.png" },
+  { name: "Marli Salmon", pos: "Defender", age: 16, num: 89, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcG2-gKOjocC1Txn3Ph4lD-eK1buXXGercCfR9B0kH-w&s" },
 
   // Midfielders
   { name: "Martin Ødegaard", pos: "Midfielder", age: 27, num: 8, country: "🇳🇴 Norway", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Martin_%C3%98degaard_2022.jpg/800px-Martin_%C3%98degaard_2022.jpg" },
