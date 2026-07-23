@@ -16,7 +16,7 @@ const players = [
 
   // Midfielders
   { name: "Martin Ødegaard", pos: "Midfielder", age: 27, num: 8, country: "🇳🇴 Norway", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Martin_%C3%98degaard_2022.jpg/800px-Martin_%C3%98degaard_2022.jpg" },
-  { name: "Eberechi Eze", pos: "Midfielder", age: 28, num: 10, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "eze.jpg" },
+  { name: "Eberechi Eze", pos: "Midfielder", age: 28, num: 10, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://assets.arsenal.com/prod/images/xl_landscape/e20e37725ac7-eze-pose-4678383.webp" },
   { name: "Ethan Nwaneri (On Loan)", pos: "Midfielder", age: 19, num: 22, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "nwaneri.jpg" },
   { name: "Mikel Merino", pos: "Midfielder", age: 30, num: 23, country: "🇪🇸 Spain", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mikel_Merino_2021.jpg/800px-Mikel_Merino_2021.jpg" },
   { name: "Declan Rice", pos: "Midfielder", age: 27, num: 41, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Declan_Rice_2022.jpg/800px-Declan_Rice_2022.jpg" },
