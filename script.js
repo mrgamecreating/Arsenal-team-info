@@ -1,9 +1,9 @@
 const players = [
   // Goalkeepers
   { name: "David Raya", pos: "Goalkeeper", age: 30, num: 1, country: "🇪🇸 Spain", image: "raya.jpg" },
-  { name: "Kepa Arrizabalaga", pos: "Goalkeeper", age: 31, num: 13, country: "🇪🇸 Spain", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kepa_Arrizabalaga_2018.jpg/800px-Kepa_Arrizabalaga_2018.jpg" },
-  { name: "Illan Meslier", pos: "Goalkeeper", age: 26, num: 30, country: "🇫🇷 France", image: "" },
-  { name: "Tommy Setford", pos: "Goalkeeper", age: 20, num: 35, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "" },
+  { name: "Kepa Arrizabalaga", pos: "Goalkeeper", age: 31, num: 13, country: "🇪🇸 Spain", image: "kepa.jpg" },
+  { name: "Illan Meslier", pos: "Goalkeeper", age: 26, num: 30, country: "🇫🇷 France", image: "meslier.jpg" },
+  { name: "Tommy Setford", pos: "Goalkeeper", age: 20, num: 35, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "setford.jpg" },
 
   // Defenders
   { name: "William Saliba", pos: "Defender", age: 25, num: 2, country: "🇫🇷 France", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/William_Saliba_2022.jpg/800px-William_Saliba_2022.jpg" },
