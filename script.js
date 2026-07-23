@@ -1,6 +1,6 @@
 const players = [
   // Goalkeepers
-  { name: "David Raya", pos: "Goalkeeper", age: 30, num: 1, country: "🇪🇸 Spain", image: "raya.jpg" },
+  { name: "David Raya", pos: "Goalkeeper", age: 30, num: 1, country: "🇪🇸 Spain", image: "https://assets.arsenal.com/prod/images/medium_square/b22b5eee4eb2-1-david-raya.png" },
   { name: "Kepa Arrizabalaga", pos: "Goalkeeper", age: 31, num: 13, country: "🇪🇸 Spain", image: "kepa.jpg" },
   { name: "Illan Meslier", pos: "Goalkeeper", age: 26, num: 30, country: "🇫🇷 France", image: "meslier.jpg" },
   { name: "Tommy Setford", pos: "Goalkeeper", age: 20, num: 35, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "setford.jpg" },
