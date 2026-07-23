@@ -1,6 +1,6 @@
 const players = [
   // Goalkeepers
-  { name: "David Raya", pos: "Goalkeeper", age: 30, num: 1, country: "🇪🇸 Spain", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/David_Raya_2023.jpg/800px-David_Raya_2023.jpg" },
+  { name: "David Raya", pos: "Goalkeeper", age: 30, num: 1, country: "🇪🇸 Spain", image: "https://github.com/mrgamecreating/Arsenal-team-info/blob/main/raya.jpg" },
   { name: "Kepa Arrizabalaga", pos: "Goalkeeper", age: 31, num: 13, country: "🇪🇸 Spain", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kepa_Arrizabalaga_2018.jpg/800px-Kepa_Arrizabalaga_2018.jpg" },
   { name: "Illan Meslier", pos: "Goalkeeper", age: 26, num: 30, country: "🇫🇷 France", image: "" },
   { name: "Tommy Setford", pos: "Goalkeeper", age: 20, num: 35, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "" },
