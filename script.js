@@ -15,19 +15,19 @@ const players = [
   { name: "Marli Salmon", pos: "Defender", age: 16, num: 89, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4u02fAN2GfnWYbG1UciTNQeEK2SzKuFSr7OwTbv1Xcw&s=10" },
 
   // Midfielders
-  { name: "Martin Ødegaard", pos: "Midfielder", age: 27, num: 8, country: "🇳🇴 Norway", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Martin_%C3%98degaard_2022.jpg/800px-Martin_%C3%98degaard_2022.jpg" },
+  { name: "Martin Ødegaard", pos: "Midfielder", age: 27, num: 8, country: "🇳🇴 Norway", image: "https://assets.arsenal.com/prod/images/medium_square/2e86615cc272-8-martin-odegaard.png" },
   { name: "Eberechi Eze", pos: "Midfielder", age: 28, num: 10, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://assets.arsenal.com/prod/images/medium_square/f00b2940dc17-10-eze.png" },
-  { name: "Ethan Nwaneri (On Loan)", pos: "Midfielder", age: 19, num: 22, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "nwaneri.jpg" },
-  { name: "Mikel Merino", pos: "Midfielder", age: 30, num: 23, country: "🇪🇸 Spain", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mikel_Merino_2021.jpg/800px-Mikel_Merino_2021.jpg" },
-  { name: "Declan Rice", pos: "Midfielder", age: 27, num: 41, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Declan_Rice_2022.jpg/800px-Declan_Rice_2022.jpg" },
+  { name: "Ethan Nwaneri (On Loan)", pos: "Midfielder", age: 19, num: 22, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://assets.arsenal.com/prod/images/medium_square/0dcc2bebe505-22-ethan-nwaneri.png" },
+  { name: "Mikel Merino", pos: "Midfielder", age: 30, num: 23, country: "🇪🇸 Spain", image: "https://assets.arsenal.com/prod/images/medium_square/7a4cb0eddeec-23-mikel-merino.png" },
+  { name: "Declan Rice", pos: "Midfielder", age: 27, num: 41, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://assets.arsenal.com/prod/images/medium_square/425d06dffbbc-41-declan-rice.png" },
 
   // Forwards
-  { name: "Bukayo Saka", pos: "Forward", age: 24, num: 7, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bukayo_Saka_2022.jpg/800px-Bukayo_Saka_2022.jpg" },
-  { name: "Gabriel Jesus", pos: "Forward", age: 29, num: 9, country: "🇧🇷 Brazil", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gabriel_Jesus_2018.jpg/800px-Gabriel_Jesus_2018.jpg" },
-  { name: "Gabriel Martinelli", pos: "Forward", age: 25, num: 11, country: "🇧🇷 Brazil", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Gabriel_Martinelli_2022.jpg/800px-Gabriel_Martinelli_2022.jpg" },
-  { name: "Viktor Gyökeres", pos: "Forward", age: 28, num: 14, country: "🇸🇪 Sweden", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Viktor_Gy%C3%B6keres_2023.jpg/800px-Viktor_Gy%C3%B6keres_2023.jpg" },
-  { name: "Kai Havertz", pos: "Forward", age: 27, num: 29, country: "🇩🇪 Germany", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kai_Havertz_2019.jpg/800px-Kai_Havertz_2019.jpg" },
-  { name: "Max Dowman", pos: "Forward", age: 16, num: 56, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "" }
+  { name: "Bukayo Saka", pos: "Forward", age: 24, num: 7, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://assets.arsenal.com/prod/images/medium_square/8477ef76d028-7-bukayo-saka.png" },
+  { name: "Gabriel Jesus", pos: "Forward", age: 29, num: 9, country: "🇧🇷 Brazil", image: "https://assets.arsenal.com/prod/images/medium_square/53d91cc81f2e-9-gabriel-jesus.png" },
+  { name: "Gabriel Martinelli", pos: "Forward", age: 25, num: 11, country: "🇧🇷 Brazil", image: "https://assets.arsenal.com/prod/images/medium_square/7eea33c0f65f-11-gabriel-martinelli.png" },
+  { name: "Viktor Gyökeres", pos: "Forward", age: 28, num: 14, country: "🇸🇪 Sweden", image: "https://assets.arsenal.com/prod/images/medium_square/c35e10005c3b-14-viktor-gyokeres.png" },
+  { name: "Kai Havertz", pos: "Forward", age: 27, num: 29, country: "🇩🇪 Germany", image: "https://assets.arsenal.com/prod/images/medium_square/4bb4301201cd-29-kai-havertz.png" },
+  { name: "Max Dowman", pos: "Forward", age: 16, num: 56, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFhx2ctL-se8-gmT-OeRQKgQPQYBpkUKnvm1Fl3zqsA&s=10" }
 ];
 
 const grid = document.getElementById("squad-grid");
