@@ -7,7 +7,7 @@ const players = [
 
   // Defenders
   { name: "William Saliba", pos: "Defender", age: 25, num: 2, country: "🇫🇷 France", image: "saliba.jpg" },
-  { name: "Ben White", pos: "Defender", age: 28, num: 4, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "white.jpg" },
+  { name: "Ben White", pos: "Defender", age: 28, num: 4, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://assets.arsenal.com/prod/images/medium_square/c83cc5eae5b9-4-ben-white.png" },
   { name: "Gabriel Magalhães", pos: "Defender", age: 28, num: 6, country: "🇧🇷 Brazil", image: "gabriel.m.jpg" },
   { name: "Jurriën Timber", pos: "Defender", age: 25, num: 12, country: "🇳🇱 Netherlands", image: "timber.jpg" },
   { name: "Riccardo Calafiori", pos: "Defender", age: 24, num: 33, country: "🇮🇹 Italy", image: "calafiori.jpg" },
