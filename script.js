@@ -1,12 +1,12 @@
 const players = [
   // Goalkeepers
   { name: "David Raya", pos: "Goalkeeper", age: 30, num: 1, country: "🇪🇸 Spain", image: "https://assets.arsenal.com/prod/images/medium_square/b22b5eee4eb2-1-david-raya.png" },
-  { name: "Kepa Arrizabalaga", pos: "Goalkeeper", age: 31, num: 13, country: "🇪🇸 Spain", image: "kepa.jpg" },
-  { name: "Illan Meslier", pos: "Goalkeeper", age: 26, num: 30, country: "🇫🇷 France", image: "meslier.jpg" },
-  { name: "Tommy Setford", pos: "Goalkeeper", age: 20, num: 35, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "setford.jpg" },
+  { name: "Kepa Arrizabalaga", pos: "Goalkeeper", age: 31, num: 13, country: "🇪🇸 Spain", image: "https://assets.arsenal.com/prod/images/medium_square/efd02a29e98d-13-kepa-arrizabalaga.png" },
+  { name: "Illan Meslier", pos: "Goalkeeper", age: 26, num: 30, country: "🇫🇷 France", image: "https://assets.arsenal.com/prod/images/medium_square/c88bc8a5f6a1-9x16-im-no-background.png" },
+  { name: "Tommy Setford", pos: "Goalkeeper", age: 20, num: 35, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://assets.arsenal.com/prod/images/medium_square/4571a2d817f5-35-tommy-setford.png" },
 
   // Defenders
-  { name: "William Saliba", pos: "Defender", age: 25, num: 2, country: "🇫🇷 France", image: "saliba.jpg" },
+  { name: "William Saliba", pos: "Defender", age: 25, num: 2, country: "🇫🇷 France", image: "https://assets.arsenal.com/prod/images/medium_square/acb476e282e8-2-william-saliba.png" },
   { name: "Ben White", pos: "Defender", age: 28, num: 4, country: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 England", image: "https://assets.arsenal.com/prod/images/medium_square/c83cc5eae5b9-4-ben-white.png" },
   { name: "Gabriel Magalhães", pos: "Defender", age: 28, num: 6, country: "🇧🇷 Brazil", image: "gabriel.m.jpg" },
   { name: "Jurriën Timber", pos: "Defender", age: 25, num: 12, country: "🇳🇱 Netherlands", image: "timber.jpg" },
